@@ -3,8 +3,7 @@ title: "Motor Trend Project - Regression Coursera - JHU Course"
 author: "Gito"
 date: "2024-11-02"
 output: 
-  md_document:
-    variant: markdown_github
+  word_document: default
 ---
 
 
